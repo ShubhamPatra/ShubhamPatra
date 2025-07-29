@@ -63,7 +63,7 @@ A cryptic, witty, and dark-themed AI desktop assistant inspired by Moon Knight.
 
 - 📧 [shubhampatra635@gmail.com](mailto:shubhampatra635@gmail.com)  
 - 🌐 [Portfolio Website](https://shubham-patra-portfolio.netlify.app/)  
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/patrashubham)
 ---
 
 _“Learning is never cumulative, it is a movement of knowing which has no beginning and no end.”_
