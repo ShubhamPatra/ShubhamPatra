@@ -62,7 +62,7 @@ A cryptic, witty, and dark-themed AI desktop assistant inspired by Moon Knight.
 ## 📫 Contact Me
 
 - 📧 [shubhampatra635@gmail.com](mailto:shubhampatra635@gmail.com)  
-- 🌐 [Portfolio Website](https://wwww.shubhampatra.dev/)  
+- 🌐 [Portfolio Website](https://shubhampatra.dev/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/patrashubham)
 ---
 
