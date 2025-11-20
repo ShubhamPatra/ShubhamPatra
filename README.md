@@ -34,11 +34,6 @@
 
 Final-year B.Tech Computer Science student with strong problem-solving skills and hands-on experience in full-stack development. Currently interning at **Kurators**, where I lead development teams and contribute to building scalable, production-ready applications in a fast-paced startup environment. I'm passionate about building responsive web solutions, collaborating in agile teams, and applying modern technologies to deliver efficient, real-world products.
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=ShubhamPatra&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
 
 ---
 
