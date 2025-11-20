@@ -4,13 +4,15 @@
 
 ### Full Stack Developer | Building Scalable Web Solutions
 
-🎓 Final-year B.Tech CSIT @ ITER (SOA)  
+🎓 Final-year B.Tech CSIT @ ITER (SOA) | 7.41 CGPA  
 💻 Full Stack Developer Intern @ **Kurators**  
+📍 Cuttack, Odisha | 🌍 Remote-Ready
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shubhampatra.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shubhampatra.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-patrashubham-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrashubham)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-shubhampatra.dev-4A90E2?style=for-the-badge&logoColor=white)](https://shubhampatra.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-patrashubham-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrashubham)
 [![GitHub](https://img.shields.io/badge/GitHub-ShubhamPatra-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShubhamPatra)
-[![Email](https://img.shields.io/badge/Email-shubhampatra635@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhampatra635@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Email-shubhampatra635-EA4335?style=for-the-badge&logoColor=white)](mailto:shubhampatra635@gmail.com)
+[![Phone](https://img.shields.io/badge/📱_Phone-+91_9439602249-25D366?style=for-the-badge&logoColor=white)](tel:+919439602249)
 
 
 </div>
