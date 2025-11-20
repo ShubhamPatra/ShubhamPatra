@@ -8,11 +8,23 @@
 💻 Full Stack Developer Intern @ **Kurators**  
 📍 Cuttack, Odisha | 🌍 Remote-Ready
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-shubhampatra.dev-4A90E2?style=for-the-badge&logoColor=white)](https://shubhampatra.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-patrashubham-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrashubham)
-[![GitHub](https://img.shields.io/badge/GitHub-ShubhamPatra-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShubhamPatra)
-[![Email](https://img.shields.io/badge/📧_Email-shubhampatra635-EA4335?style=for-the-badge&logoColor=white)](mailto:shubhampatra635@gmail.com)
-[![Phone](https://img.shields.io/badge/📱_Phone-+91_9439602249-25D366?style=for-the-badge&logoColor=white)](tel:+919439602249)
+<p align="center">
+  <a href="https://shubhampatra.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/patrashubham">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ShubhamPatra">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:shubhampatra635@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="tel:+919439602249">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+  </a>
+</p>
 
 
 </div>
