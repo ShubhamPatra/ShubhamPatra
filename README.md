@@ -4,9 +4,8 @@
 
 ### Full Stack Developer | Building Scalable Web Solutions
 
-🎓 Final-year B.Tech CSIT @ ITER (SOA) | 7.41 CGPA  
+🎓 Final-year B.Tech CSIT @ ITER (SOA) 
 💻 Full Stack Developer Intern @ **Kurators**  
-📍 Cuttack, Odisha | 🌍 Remote-Ready
 
 <p align="center">
   <a href="https://shubhampatra.dev/">
@@ -35,10 +34,19 @@
 
 Final-year B.Tech Computer Science student with strong problem-solving skills and hands-on experience in full-stack development. Currently interning at **Kurators**, where I lead development teams and contribute to building scalable, production-ready applications in a fast-paced startup environment. I'm passionate about building responsive web solutions, collaborating in agile teams, and applying modern technologies to deliver efficient, real-world products.
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ShubhamPatra&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
 ---
 
-
 ## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,php,js,ts,react,html,css,bootstrap,nodejs,express,mongodb,mysql,git,github,socketio,vite,electron&perline=10" alt="Tech Stack" />
+</p>
 
 ```text
 Languages      │ Java • C • C++ • PHP • JavaScript • TypeScript
@@ -109,7 +117,19 @@ ITER, Siksha 'O' Anusandhan University, Bhubaneswar, Odisha
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamPatra&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShubhamPatra&theme=radical&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamPatra&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/ShubhamPatra/ShubhamPatra/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
