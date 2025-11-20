@@ -1,69 +1,109 @@
+<div align="center">
+
 # 👋 Hi, I'm Shubham Patra
 
-🎓 Final-year B.Tech CSIT student at ITER (SOA)  
-💻 Full Stack Developer Intern @ Kurators  
-📍 Based in Cuttack, Odisha | Remote-Ready  
+### Full Stack Developer | Building Scalable Web Solutions
+
+🎓 Final-year B.Tech CSIT @ ITER (SOA)  
+💻 Full Stack Developer Intern @ **Kurators**  
+� CutAtack, Odisha | 🌍 Remote-Ready
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-shubhampatra.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shubhampatra.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-patrashubham-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrashubham)
+[![Email](https://img.shields.io/badge/Email-shubhampatra635@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhampatra635@gmail.com)
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a full stack web developer passionate about building scalable and meaningful products. Currently interning at **Kurators**, I contribute to real-world projects in a fast-paced startup environment. I love combining creativity and logic to solve problems and bring ideas to life.
+I'm a passionate full stack developer who loves turning ideas into reality through code. Currently contributing to real-world projects at **Kurators**, I thrive in fast-paced environments where creativity meets logic. My focus is on building scalable, user-centric applications that make a difference.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java, C, C++, PHP, JavaScript  
-**Frontend:** React.js, HTML5, CSS3  
-**Backend:** Node.js, Express.js, PHP  
-**Databases:** MongoDB, MySQL  
-**Other Tools:** Git, GitHub, Socket.io  
+```text
+Languages      │ Java • C • C++ • PHP • JavaScript
+Frontend       │ React.js • HTML5 • CSS3
+Backend        │ Node.js • Express.js • PHP
+Databases      │ MongoDB • MySQL
+Tools & More   │ Git • GitHub • Socket.io • WebSockets
+```
 
 ---
 
-## 🧠 I’m currently learning
+## 🧠 Currently Learning
 
-- Advanced backend system design  
-- Real-time collaboration with WebSockets  
-- Modern frontend performance optimization  
+- 🏗️ Advanced backend system design & architecture
+- ⚡ Real-time collaboration with WebSockets
+- 🚀 Modern frontend performance optimization techniques
 
 ---
 
-## 💼 Projects
+## 💼 Featured Projects
 
 ### 🔗 [CodeTogether](https://codetogetherfrontend.onrender.com/)
-Real-time collaborative code editor for multiple users.  
-**Tech Stack:** React.js, Node.js, Express.js, Socket.io  
 
-> Features: Live syncing, multi-user rooms, shared cursors.
+**Real-time collaborative code editor** enabling seamless multi-user coding sessions.
+
+`React.js` `Node.js` `Express.js` `Socket.io`
+
+- ✨ Live code syncing across multiple users
+- 👥 Multi-user rooms with instant updates
+- 🖱️ Shared cursors for collaborative editing
 
 ---
 
 ### 🔗 [CareerConnect](http://careerconnect.infinityfreeapp.com/)
-Job application portal with recruiter and applicant dashboards.  
-**Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL  
 
-> Features: Job posting, application tracking, login system.
+**Job application portal** connecting recruiters with talented applicants.
+
+`HTML` `CSS` `JavaScript` `PHP` `MySQL`
+
+- 📝 Job posting and management system
+- � ALpplication tracking dashboard
+- 🔐 Secure authentication and role-based access
 
 ---
 
 ### 🔗 [Nyx – AI Assistant](https://nyxai.onrender.com/)
-A cryptic, witty, and dark-themed AI desktop assistant inspired by Moon Knight.  
-**Tech Stack:** Vite (Frontend), Node.js (Backend), Electron (Desktop Integration)  
 
-> Features:
-- Reflective conversations based on your personal data  
-- Local processing and privacy-first memory  
-- Whispers wisdom. Roasts reality. Answers your questions — brutally.  
+**Cryptic AI desktop assistant** inspired by Moon Knight — witty, dark, and brutally honest.
+
+`Vite` `Node.js` `Electron`
+
+- 🧠 Reflective conversations based on personal data
+- 🔒 Privacy-first with local processing
+- 💬 Whispers wisdom. Roasts reality. Answers brutally.
 
 ---
 
-## 📫 Contact Me
+## 📊 GitHub Stats
 
-- 📧 [shubhampatra635@gmail.com](mailto:shubhampatra635@gmail.com)  
-- 🌐 [Portfolio Website](https://shubhampatra.dev/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/patrashubham)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patrashubham&show_icons=true&theme=radical&hide_border=true)
+
+</div>
+
 ---
 
-_“Learning is never cumulative, it is a movement of knowing which has no beginning and no end.”_
+## 📫 Let's Connect
+
+I'm always open to interesting conversations and collaboration opportunities!
+
+- 📧 **Email:** [shubhampatra635@gmail.com](mailto:shubhampatra635@gmail.com)
+- 🌐 **Portfolio:** [shubhampatra.dev](https://shubhampatra.dev/)
+- 💼 **LinkedIn:** [linkedin.com/in/patrashubham](https://www.linkedin.com/in/patrashubham)
+
+---
+
+<div align="center">
+
+_"Learning is never cumulative, it is a movement of knowing which has no beginning and no end."_
+
+⭐️ From [Shubham Patra](https://github.com/patrashubham)
+
+</div>
