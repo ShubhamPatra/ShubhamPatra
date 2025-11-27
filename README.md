@@ -109,7 +109,7 @@ ITER, Siksha 'O' Anusandhan University, Bhubaneswar, Odisha
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamPatra&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShubhamPatra&theme=radical&hide_border=true)](https://github.com/ShubhamPatra/github-readme-streak-stats)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=ShubhamPatra&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamPatra&layout=compact&theme=radical&hide_border=true)
 
